@@ -7,7 +7,10 @@ PHP-WEBSITE-TEMPLATE05 一个完整的中英文双语企业网站模板,界面�
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。  
 
 ****
-![](https://github.com/Kokolpb/PHP-WEBSITE-TEMPLATE05/blob/master/home.jpg)  
+![](https://github.com/Kokolpb/PHP-WEBSITE-TEMPLATE05/blob/master/home1.jpg)  
+
+****
+![](https://github.com/Kokolpb/PHP-WEBSITE-TEMPLATE05/blob/master/home2.jpg)  
 
 运行环境和下载地址 
 ===========================
