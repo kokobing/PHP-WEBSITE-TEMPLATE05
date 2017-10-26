@@ -1,0 +1,1 @@
+<p><?=$adv_fotter[content]?></p> 

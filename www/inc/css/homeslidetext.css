@@ -1,0 +1,59 @@
+
+#slides_1 {
+
+	top:0px;
+	left:0px;
+	z-index:100;
+}
+
+
+
+.slides_container_1 {
+	width:570px;
+	padding:5px;
+	height:170px;
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+
+
+#slides_1 .slide_1 {
+	padding:0px;
+	width:600px;
+	height:60px;
+	display:block;
+}
+
+
+
+.pagination_1 {
+	position:absolute;
+	margin-top:-150px;
+	margin-left:660px;
+	width:100px;
+}
+
+.pagination_1 li {
+	float:left;
+	margin:0 1px;
+	list-style:none;
+}
+
+.pagination_1 li a {
+	display:block;
+	width:18px;
+	height:0;
+	padding-top:12px;
+	background-image:url(/inc/pics/pagination_txt.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+.pagination_1 li.current a {
+	background-position:0 -12px;
+}
+
+

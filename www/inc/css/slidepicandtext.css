@@ -1,0 +1,102 @@
+#container {
+    float:left;
+	width:1010px;
+	margin:0 auto;
+	position:relative;
+	z-index:0;
+}
+
+
+#quick_contact {
+	position:absolute;
+	height:30px;
+	padding-top:5px;
+	padding-left:5px;
+	width:160px;
+	top:366px;
+	left:0px;
+	z-index:500;
+	BACKGROUND: url(/inc/pics/bg_trans.png);
+}
+
+
+#slides {
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:100;
+}
+
+
+.slides_container {
+	width:1010px;
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+
+.slides_container div.slide {
+	width:1010px;
+	height:431px;
+	display:block;
+}
+
+
+/*
+	Pagination
+*/
+
+.pagination {
+	position:absolute;
+	margin-top:-60px;
+	margin-left:900px;
+	padding-top:10px;
+	padding-left:10px;
+	width:100px;
+	height:25px;
+    z-index:600;
+	BACKGROUND: url(/inc/pics/bg_trans.png);
+}
+
+.pagination li {
+	float:left;
+	margin:0 1px;
+	list-style:none;
+}
+
+.pagination li a {
+	display:block;
+	width:18px;
+	height:0;
+	padding-top:12px;
+	background-image:url(/inc/pics/pagination.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+.pagination li.current a {
+	background-position:0 -12px;
+}
+
+/*
+	Caption
+*/
+
+.caption {
+	z-index:500;
+	position:absolute;
+	bottom:0px;
+	left:0;
+	padding:0px 0px 0 0px;
+	margin-left:20px;
+	height:340px;
+	width:540px;
+	color:#fff;
+}
+
+
+
+
+
